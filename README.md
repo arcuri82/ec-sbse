@@ -42,6 +42,11 @@ The course is divided in 4 lessons:
 ## Reading List
 
 1) Lesson 1
+   * Luke, Sean. *Essentials of metaheuristics*. Vol. 2. Raleigh: Lulu, 2013.
+            **IMPORTANT**: download book from [author's website](https://cs.gmu.edu/~sean/book/metaheuristics/)
+
+   * Holland, J. H. (1992). *Genetic algorithms*. Scientific American, 267(1), 66–73.
+   
    * Whitley D. (1994). *A genetic algorithm tutorial*. Statistics and computing.  Jun;4:65-85.
    
    * Durillo JJ, Nebro AJ. (2011). *jMetal: A Java framework for multi-objective optimization*. Advances in Engineering Software.  Oct 1;42(10):760-71.
@@ -80,6 +85,7 @@ The course is divided in 4 lessons:
    
    * Arcuri A, Zhang M, Belhadi A, Marculescu B, Golmohammadi A, Galeotti JP, Seran S. (2023). *Building an open-source system test generation tool: lessons learned and empirical analyses with EvoMaster*. Software Quality Journal.  Mar 6:1-44.
 
+   
 
 
 
