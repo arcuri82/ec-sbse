@@ -54,6 +54,8 @@ The course is divided in 4 lessons:
 2) Lesson 2
    * Whitley LD. (1989). *The GENITOR algorithm and selection pressure: why rank-based allocation of reproductive trials is best*. Colorado State University, Department of Computer Science;  Jun 4.
    
+   * Črepinšek M, Liu SH, Mernik M. (2013). *Exploration and exploitation in evolutionary algorithms: A survey*. ACM computing surveys (CSUR).  Jul 3;45(3):1-33.
+
    * Deb K, Pratap A, Agarwal S, Meyarivan TA. (2002). *A fast and elitist multiobjective genetic algorithm: NSGA-II*. IEEE transactions on evolutionary computation.  Aug 7;6(2):182-97.
 
    * Droste S, Jansen T, Wegener I. (2002). *On the analysis of the (1+ 1) evolutionary algorithm*. Theoretical Computer Science.  Apr 6;276(1-2):51-81.
@@ -79,6 +81,9 @@ The course is divided in 4 lessons:
    * Arcuri A. (2018). *Test suite generation with the Many Independent Objective (MIO) algorithm*. Information and Software Technology. 2018 Dec 1;104:195-206.
 
 4) Lesson 4
+   
+   * Barr RS, Golden BL, Kelly JP, Resende MG, Stewart WR. (1995). *Designing and reporting on computational experiments with heuristic methods*. Journal of heuristics.  Sep;1:9-32.  
+
    * A Arcuri, L Briand (2014). *A hitchhiker's guide to statistical tests for assessing randomized algorithms in software engineering*. Software Testing, Verification and Reliability, 24 (3), 219-250
 
    * Campos J, Ge Y, Albunian N, Fraser G, Eler M, Arcuri A. (2018). *An empirical evaluation of evolutionary algorithms for unit test suite generation*. Information and Software Technology.  Dec 1;104:207-35.
