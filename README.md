@@ -1,8 +1,9 @@
 # EC-SBSE
-This repository contains the material for the PhD course titled: *"Evolutionary Computation and Search-Based Software Engineering"*.
+This repository contains the material for the PhD course titled: *"Evolutionary Computation and Search-Based Software Engineering"*, code PIT9206.
 
-The course is currently taught by Prof. Andrea Arcuri and Dr. Man Zhang, at Kristiania Univeristy College, Oslo, Norway.
+The course is currently taught by Prof. Andrea Arcuri, at Kristiania Univeristy College, Oslo, Norway.
 
+In 2024, the course will be held from the 27th to 30th of May.
 
 ## Lessons
 The course is divided in 4 lessons:
