@@ -92,7 +92,11 @@ The course is divided in 4 lessons:
    * Arcuri A, Zhang M, Belhadi A, Marculescu B, Golmohammadi A, Galeotti JP, Seran S. (2023). *Building an open-source system test generation tool: lessons learned and empirical analyses with EvoMaster*. Software Quality Journal.  Mar 6:1-44.
 
    
+## Old Slides
 
+Currently, we have no slides (yet) for this course.
+But some relevant old slides (from previous courses) can be  found
+under the [old_slides folder](./old_slides). 
 
 
 
